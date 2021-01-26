@@ -1,0 +1,304 @@
+E:\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+E:\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+E:\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+E:\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+E:\SistemaVeterinaria\bin\Debug\MySql.Data.dll
+E:\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+E:\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogin.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.cache
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CoreCompileInputs.cache
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CopyComplete
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmergencia.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPProducto.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmVenta.resources
+F:\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+F:\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+F:\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+F:\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+F:\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+F:\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojAssemblyReference.cache
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmBoleta.resources
+E:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+D:\Descargas\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+D:\Descargas\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+D:\Descargas\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+D:\Descargas\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+D:\Descargas\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+D:\Descargas\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmBoleta.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmergencia.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogin.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPProducto.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmVenta.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.cache
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CoreCompileInputs.cache
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CopyComplete
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+D:\Descargas\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\bin\Debug\MySql.Data.dll
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojAssemblyReference.cache
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmBoleta.resources
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogin.resources
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.cache
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CopyComplete
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmpleado.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmBoleta.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmpleado.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+D:\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+D:\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+D:\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+D:\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+D:\SistemaVeterinaria\bin\Debug\MySql.Data.dll
+D:\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+D:\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmBoleta.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmergencia.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmpleado.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogin.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPProducto.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmVenta.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+D:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+F:\SistemaVeterinaria\bin\Debug\MySql.Data.dll
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmTratamientos.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+C:\Users\Yofer Nain\Downloads\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmTratamientos.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\bin\Debug\MySql.Data.dll
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojAssemblyReference.cache
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmTratamientos.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmpleado.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.cache
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CopyComplete
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\bin\Debug\itextsharp.dll
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\bin\Debug\itextsharp.xml
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportMantenimiento.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportTratamientos.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportVacunas.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogins.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\bin\Debug\itextsharp.dll
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\bin\Debug\itextsharp.xml
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogins.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportMantenimiento.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportTratamientos.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportVacunas.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmTratamientos.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmpleado.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CoreCompileInputs.cache
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\bin\Debug\itextsharp.dll
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\bin\Debug\MySql.Data.dll
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\bin\Debug\itextsharp.xml
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmBoleta.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogins.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportMantenimiento.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportTratamientos.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportVacunas.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmTratamientos.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmpleado.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+C:\Users\AEPIS01\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+F:\SistemaVeterinaria\bin\Debug\itextsharp.dll
+F:\SistemaVeterinaria\bin\Debug\itextsharp.xml
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogins.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportMantenimiento.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportTratamientos.resources
+F:\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportVacunas.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+F:\Proyecto LP2 presentado\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+F:\Proyecto LP2 presentado\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+F:\Proyecto LP2 presentado\SistemaVeterinaria\bin\Debug\itextsharp.dll
+F:\Proyecto LP2 presentado\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+F:\Proyecto LP2 presentado\SistemaVeterinaria\bin\Debug\MySql.Data.dll
+F:\Proyecto LP2 presentado\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+F:\Proyecto LP2 presentado\SistemaVeterinaria\bin\Debug\itextsharp.xml
+F:\Proyecto LP2 presentado\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojAssemblyReference.cache
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmBoleta.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogins.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportMantenimiento.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportTratamientos.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportVacunas.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmTratamientos.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmpleado.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.cache
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CoreCompileInputs.cache
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.CopyComplete
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+F:\Proyecto LP2 presentado\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+D:\Adnner\UPT\2018-I\Programacion2\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmGanancias.resources
+C:\Users\Yofer Nain\Desktop\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmGanancias.resources
+G:\C# YMSQL\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+G:\C# YMSQL\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+G:\C# YMSQL\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+G:\C# YMSQL\SistemaVeterinaria\bin\Debug\itextsharp.dll
+G:\C# YMSQL\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+G:\C# YMSQL\SistemaVeterinaria\bin\Debug\MySql.Data.dll
+G:\C# YMSQL\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+G:\C# YMSQL\SistemaVeterinaria\bin\Debug\itextsharp.xml
+G:\C# YMSQL\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmGanancias.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogins.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportMantenimiento.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportTratamientos.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportVacunas.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmTratamientos.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmpleado.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+G:\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+F:\2018\C# YMSQL\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+F:\2018\C# YMSQL\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+F:\2018\C# YMSQL\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+F:\2018\C# YMSQL\SistemaVeterinaria\bin\Debug\itextsharp.dll
+F:\2018\C# YMSQL\SistemaVeterinaria\bin\Debug\MaterialSkin.dll
+F:\2018\C# YMSQL\SistemaVeterinaria\bin\Debug\Google.Protobuf.dll
+F:\2018\C# YMSQL\SistemaVeterinaria\bin\Debug\itextsharp.xml
+F:\2018\C# YMSQL\SistemaVeterinaria\bin\Debug\MySql.Data.xml
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmAgenda.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmGanancias.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmLogins.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportMantenimiento.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportTratamientos.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmReportVacunas.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmTratamientos.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmEmpleado.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmHistorial.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMantenimiento.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmMascota.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmPrincipal.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmClientes.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Principal.FrmServicios.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+F:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojAssemblyReference.cache
+G:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojAssemblyReference.cache
+G:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+G:\2018\C# YMSQL\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb

@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SistemaVeterinaria.Entidades.ClsEAgenda" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAQAAAAEAAGAAAAAAQEAAAAAAAAAAAgAAAEA=</HashCode>
+      <FileName>Entidades\ClsEAgenda.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ClsNAgenda" />
+      <Property Name="FrmAgenda" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Entidades.ClsEClientes" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAAAEACAAgAAAAAAAAAAAhAAAAgAAAAA=</HashCode>
+      <FileName>Entidades\ClsEClientes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmClientes" />
+      <Property Name="ClsNClientes" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Entidades.ClsEEmpleados" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAEACAAwAAAAEAAAAABAAAAAAAAEAg=</HashCode>
+      <FileName>Entidades\ClsEEmpleados.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmEmpleado" />
+      <Property Name="ClsNEmpleados" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Entidades.ClsEGanancias" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAABAAAAAAEAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\ClsEGanancias.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmGanancias" />
+      <Property Name="ClsNGanancias" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Entidades.ClsEHistorial" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAGICAAAAAAAAAAAAQAAAAgAAAAA=</HashCode>
+      <FileName>Entidades\ClsEHistorial.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmHistorial" />
+      <Property Name="ClsNHistorial" />
+      <Property Name="FrmHistorial1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Entidades.ClsEMantenimientos" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAgAAAAAAAAAEAAAAAgAAQAAAAEAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Entidades\ClsEMantenimientos.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmMantenimiento" />
+      <Property Name="ClsNMantenimiento" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Entidades.ClsEMascota" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAWAAAAAAABAAAAAgEIAAAAAAAAAAAAAAAAIAAAIAAg=</HashCode>
+      <FileName>Entidades\ClsEMascota.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmMascota" />
+      <Property Name="ClsNMascota" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Entidades.ClsEServicios" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAAAAAAAAQEAAEAAAAAQAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\ClsEServicios.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmServicios" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Entidades.ClsEtratamientos" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAAAACAIBAEAAAAAgAAQAAAAAAAQAAAAEAAAAAA=</HashCode>
+      <FileName>Entidades\ClsEtratamientos.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ClsNTratamientos" />
+      <Property Name="FrmTratamientos" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Negocios.ClsNAgenda" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABQAAAAAAAEAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Negocios\ClsNAgenda.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmAgenda" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Negocios.ClsNClientes" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAQAAAAAAACIAAAAAIAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Negocios\ClsNClientes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmClientes" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Negocios.ClsNConexion" Collapsed="true">
+    <Position X="17.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAKAAAAAAAAACIIAEUEQAEAQAgAAYAAAAAAA=</HashCode>
+      <FileName>Negocios\ClsNConexion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ClsNGanancias" />
+      <Property Name="ClsNAgenda" />
+      <Property Name="ClsNHistorial" />
+      <Property Name="ClsNTratamientos" />
+      <Property Name="ClsNMantenimiento" />
+      <Property Name="ClsNServicios" />
+      <Property Name="ClsNMascota" />
+      <Property Name="ClsNEmpleados" />
+      <Property Name="ClsNClientes" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Negocios.ClsNEmpleados" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAAAEAAQIAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Negocios\ClsNEmpleados.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmEmpleado" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Negocios.ClsNGanancias" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAQAAIAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Negocios\ClsNGanancias.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmGanancias" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Negocios.ClsNHistorial" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAgAQAAIAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Negocios\ClsNHistorial.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmHistorial" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Negocios.ClsNMantenimiento" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACAAABAAAAAAAAEAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Negocios\ClsNMantenimiento.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmMantenimiento" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Negocios.ClsNMascota" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAgAEIAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Negocios\ClsNMascota.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmMascota" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Negocios.ClsNServicios" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAAAEAAAIAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Negocios\ClsNServicios.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmServicios" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Negocios.ClsNTratamientos" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAAAEAAAIAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Negocios\ClsNTratamientos.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmTratamientos" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmAgenda" Collapsed="true">
+    <Position X="13.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAAAEGACDBBhCACBCBECBCQBAMQgkCAAICAkDgA=</HashCode>
+      <FileName>Principal\FrmAgenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmClientes" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhgAAAAEGACDBBAAASECBECDCSBAMAiADACoAECCgA=</HashCode>
+      <FileName>Principal\FrmClientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmEmpleado" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAiKAgAEGACDBDQCASECBMiFASBAcACACAAKQAhCgA=</HashCode>
+      <FileName>Principal\FrmEmpleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmGanancias" Collapsed="true">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAIABBBIACIAAACAAAAAAAAACAAAAAAQAA=</HashCode>
+      <FileName>Principal\FrmGanancias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmHistorial" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mAAQgEAAmCICBAABCACECAECBAAJAMAgACAAAgQTIjA=</HashCode>
+      <FileName>Principal\FrmHistorial.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmReportVacunas" />
+      <Property Name="FrmReportMantenimiento" />
+      <Property Name="FrmReportTratamientos" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmLogins" Collapsed="true">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEgAACAAAQAAAACAABACAAAAAQEAAACEAAAAAAA=</HashCode>
+      <FileName>Principal\FrmLogins.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmPrincipal" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmMantenimiento" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8QAgCEoEECACGBAA2AGUARECBCAACOAEECAAIAABCGI=</HashCode>
+      <FileName>Principal\FrmMantenimiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmMascota" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OAgiKEgAkCACDBBAQASECRECBCQjCMAkACACIAABCjI=</HashCode>
+      <FileName>Principal\FrmMascota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmPrincipal" Collapsed="true">
+    <Position X="6.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAIAE0ASg3CBQALCQAKoQAAaCiABIIwgTIAA0BBAAAE=</HashCode>
+      <FileName>Principal\FrmPrincipal.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FrmEmpleado" />
+      <Property Name="FrmMascota" />
+      <Property Name="FrmServicios" />
+      <Property Name="FrmMantenimiento" />
+      <Property Name="FrmTratamientos" />
+      <Property Name="FrmHistorial" />
+      <Property Name="FrmAgenda" />
+      <Property Name="FrmGanancias" />
+      <Property Name="FrmClientes" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmReportMantenimiento" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQCCAABAAAAACACAACBAABAAAAAAEAAAABAAA=</HashCode>
+      <FileName>Principal\FrmReportMantenimiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmReportTratamientos" Collapsed="true">
+    <Position X="13.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgACCAABAAAAACACAACBAABAAAAAAAAAAABBAA=</HashCode>
+      <FileName>Principal\FrmReportTratamientos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmReportVacunas" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAABAAAAACACAACBAABAEAAAAAAAAABAAA=</HashCode>
+      <FileName>Principal\FrmReportVacunas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmServicios" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8QAgCEgAECACCBAAyBmUARECBCQAKOAkECIAIAgBCCI=</HashCode>
+      <FileName>Principal\FrmServicios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SistemaVeterinaria.Principal.FrmTratamientos" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9QAgCEgAkCACCDAAyBmUARECBCQACOQEESAAIAABCCI=</HashCode>
+      <FileName>Principal\FrmTratamientos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

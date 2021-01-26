@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{58F7277C-4431-4066-ABC4-86EF7D88752C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SistemaVeterinaria</RootNamespace>
+    <AssemblyName>SistemaVeterinaria</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entidades\ClsEAgenda.cs" />
+    <Compile Include="Entidades\ClsEClientes.cs" />
+    <Compile Include="Entidades\ClsEEmpleados.cs" />
+    <Compile Include="Entidades\ClsEGanancias.cs" />
+    <Compile Include="Entidades\ClsEHistorial.cs" />
+    <Compile Include="Entidades\ClsEMantenimientos.cs" />
+    <Compile Include="Entidades\ClsEMascota.cs" />
+    <Compile Include="Entidades\ClsEServicios.cs" />
+    <Compile Include="Entidades\ClsEtratamientos.cs" />
+    <Compile Include="Negocios\ClsNAgenda.cs" />
+    <Compile Include="Negocios\ClsNClientes.cs" />
+    <Compile Include="Negocios\ClsNConexion.cs" />
+    <Compile Include="Negocios\ClsNEmpleados.cs" />
+    <Compile Include="Negocios\ClsNGanancias.cs" />
+    <Compile Include="Negocios\ClsNHistorial.cs" />
+    <Compile Include="Negocios\ClsNMantenimiento.cs" />
+    <Compile Include="Negocios\ClsNMascota.cs" />
+    <Compile Include="Negocios\ClsNServicios.cs" />
+    <Compile Include="Negocios\ClsNTratamientos.cs" />
+    <Compile Include="Principal\FrmAgenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmAgenda.Designer.cs">
+      <DependentUpon>FrmAgenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmGanancias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmGanancias.Designer.cs">
+      <DependentUpon>FrmGanancias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmLogins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmLogins.Designer.cs">
+      <DependentUpon>FrmLogins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmReportMantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmReportMantenimiento.Designer.cs">
+      <DependentUpon>FrmReportMantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmReportTratamientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmReportTratamientos.Designer.cs">
+      <DependentUpon>FrmReportTratamientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmReportVacunas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmReportVacunas.Designer.cs">
+      <DependentUpon>FrmReportVacunas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmTratamientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmTratamientos.Designer.cs">
+      <DependentUpon>FrmTratamientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmEmpleado.Designer.cs">
+      <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmHistorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmHistorial.Designer.cs">
+      <DependentUpon>FrmHistorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmMantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmMantenimiento.Designer.cs">
+      <DependentUpon>FrmMantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmMascota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmMascota.Designer.cs">
+      <DependentUpon>FrmMascota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmClientes.Designer.cs">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmServicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal\FrmServicios.Designer.cs">
+      <DependentUpon>FrmServicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Principal\FrmAgenda.resx">
+      <DependentUpon>FrmAgenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmGanancias.resx">
+      <DependentUpon>FrmGanancias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmLogins.resx">
+      <DependentUpon>FrmLogins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmReportMantenimiento.resx">
+      <DependentUpon>FrmReportMantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmReportTratamientos.resx">
+      <DependentUpon>FrmReportTratamientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmReportVacunas.resx">
+      <DependentUpon>FrmReportVacunas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmTratamientos.resx">
+      <DependentUpon>FrmTratamientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmEmpleado.resx">
+      <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmHistorial.resx">
+      <DependentUpon>FrmHistorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmMantenimiento.resx">
+      <DependentUpon>FrmMantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmMascota.resx">
+      <DependentUpon>FrmMascota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmClientes.resx">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmServicios.resx">
+      <DependentUpon>FrmServicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\asd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-Pdf-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
